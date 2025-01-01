@@ -48,6 +48,5 @@ Software-Python 3.x , IDE (VS code/ Jupyter Notebook) , It contain build in libr
 *  2].Expansion to Other Domains.
   
       Such systems can be extended to other admission processes, such as medical, MBA, law, and arts courses, wherever centralized admission systems are used.
-*  3].Addressing Student Anxiety.
-  
-      Admissions can be stressful, especially when students are unsure of their chances. Predictors provide clarity and confidence, reducing anxiety and enabling better decision-making.
+* 3].Introduce Web-Services.
+      At this time this project is consol based in future we can introduce the web-services by adding GUI.
