@@ -44,9 +44,10 @@ Software-Python 3.x , IDE (VS code/ Jupyter Notebook) , It contain build in libr
 ## Future scope:-
 *  1].Enhancing the Admission Process.
   
-      Students often struggle with selecting colleges and courses during admissions. A CAP predictor can provide personalized predictions and recommendations based on their ranks, preferences, and seat availability.
+     Students often struggle with selecting colleges and courses during admissions. A CAP predictor can provide personalized predictions and recommendations based on their ranks, preferences, and seat availability.
 *  2].Expansion to Other Domains.
   
-      Such systems can be extended to other admission processes, such as medical, MBA, law, and arts courses, wherever centralized admission systems are used.
+     Such systems can be extended to other admission processes, such as medical, MBA, law, and arts courses, wherever centralized admission systems are used.
 * 3].Introduce Web-Services.
-      At this time this project is consol based in future we can introduce the web-services by adding GUI.
+  
+     At this time this project is consol based in future we can introduce the web-services by adding GUI.
