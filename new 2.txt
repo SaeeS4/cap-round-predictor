@@ -1,0 +1,8 @@
+college_admission/
+│
+├── __init__.py
+├── student.py
+├── department.py
+├── college.py
+├── predictor.py
+└── main.py
