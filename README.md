@@ -41,3 +41,13 @@ Software-Python 3.x , IDE (VS code/ Jupyter Notebook) , It contain build in libr
   ##
   ![image](https://github.com/user-attachments/assets/fdc02066-6e40-455e-8f16-2a1b5e5b5c6b)
 
+## Future scope:-
+*  1].Enhancing the Admission Process.
+  
+      Students often struggle with selecting colleges and courses during admissions. A CAP predictor can provide personalized predictions and recommendations based on their ranks, preferences, and seat availability.
+*  2].Expansion to Other Domains.
+  
+      Such systems can be extended to other admission processes, such as medical, MBA, law, and arts courses, wherever centralized admission systems are used.
+*  3].Addressing Student Anxiety.
+  
+      Admissions can be stressful, especially when students are unsure of their chances. Predictors provide clarity and confidence, reducing anxiety and enabling better decision-making.
